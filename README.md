@@ -1,1 +1,11 @@
-I am a DevOps and Cloud consultant with expertise in Big Data technologies, MLOps, and curriculum development. With a background in managing large-scale data platforms, I specialize in designing and automating CI/CD pipelines, Kubernetes deployments, and cloud-based infrastructure solutions. My work spans Hadoop, Kubernetes, Docker, Cloudera Data Services, and various DevOps tools. I am passionate about creating scalable and efficient systems, along with developing and delivering hands-on training programs in DevOps, Big Data, and MLOps for a wide range of clients.
+I am a DevOps and Cloud consultant with expertise in Big Data technologies, MLOps, and curriculum development. My focus is on building scalable systems and delivering practical, hands-on training.
+
+    🚀 DevOps Expertise: Skilled in CI/CD pipelines, Kubernetes, Docker, Terraform, and cloud infrastructure automation.
+    
+    💻 Big Data Specialist: Extensive experience with Hadoop, Apache Spark, NiFi, Kafka, and Cloudera Data Services.
+    
+    📊 MLOps & Data Science: Proficient in setting up MLOps pipelines using CML, MLFlow, and model deployment strategies.
+    
+    📚 Instructor & Consultant: Developing custom training programs on DevOps, MLOps, and Big Data for diverse clients.
+    
+    🔧 Tools & Technologies: GitLab, Jenkins, Ansible, Terraform, Kubernetes, AWS, Azure, and GCP.
